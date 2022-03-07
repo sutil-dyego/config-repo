@@ -1,0 +1,32 @@
+logs/
+target/
+.settings/
+.metadata/
+.recommenders/
+.vscode
+.classpath
+.project
+*~
+.idea
+*.iml
+*.bak
+*.beforefix
+*.jar
+*.log
+*.pid
+application*.properties
+logback-local.xml
+.DS_Store
+.factorypath
+LOG_FILE_IS_UNDEFINED*
+
+# Gradle
+build/
+.gradle/
+
+# Avoid ignoring Gradle wrapper jar file
+!gradle-wrapper.jar
+
+# requried for local testing
+template.yaml
+.aws-sam
