@@ -29,4 +29,12 @@ scacap:
         - code: de
           isPrimary: true
         - code: en
+      supportedProductTypes:
+        - GIA
+        - ISA
+        - FIXED_DEPOSIT
+        - OVERNIGHT_MONEY
+        - BROKER
+        - ESG
+        - ESG_GOLD
 
