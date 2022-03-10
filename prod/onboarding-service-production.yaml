@@ -7,7 +7,6 @@ scacap:
         - code: de
           isPrimary: true
         - code: en
-        - code: es
       supportedProductTypes:
         - GIA
         - ISA
