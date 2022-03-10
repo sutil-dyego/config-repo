@@ -1,62 +1,62 @@
-versionedI18nDetails:
-  - version: 1
-    i18nDetails:
-      - scalableBranch: GERMANY
-        regionCode: DE
-        state: LIVE
-        supportedLanguages:
-          - code: de
-            isPrimary: true
-          - code: en
-        supportedProductTypes:
-          - GIA
-          - ISA
-          - FIXED_DEPOSIT
-          - OVERNIGHT_MONEY
-          - BROKER
-          - ESG
-          - ESG_GOLD
-        enabledFeatures:
-          - DERIVATIVES
-      - scalableBranch: AUSTRIA
-        regionCode: AT
-        state: LIVE
-        supportedLanguages:
-          - code: de
-            isPrimary: true
-          - code: en
-        supportedProductTypes:
-          - BROKER
-          - GIA
-          - ISA
-          - ESG
-          - ESG_GOLD
-        enabledFeatures:
-          - DERIVATIVES
-      - scalableBranch: ITALY
-        regionCode: IT
-        state: WAITING_LIST
-        supportedLanguages:
-          - code: it
-            isPrimary: true
-          - code: en
-        supportedProductTypes:
-          - BROKER
-      - scalableBranch: SPAIN
-        regionCode: ES
-        state: LIVE
-        supportedLanguages:
-          - code: es
-            isPrimary: true
-          - code: en
-        supportedProductTypes:
-          - BROKER
-      - scalableBranch: FRANCE
-        regionCode: FR
-        state: LIVE
-        supportedLanguages:
-          - code: fr
-            isPrimary: true
-          - code: en
-        supportedProductTypes:
-          - BROKER
+scacap:
+  test: pira
+  i18nDetails:
+    - scalableBranch: GERMANY
+      regionCode: DE
+      state: LIVE
+      supportedLanguages:
+        - code: de
+          isPrimary: true
+        - code: en
+      supportedProductTypes:
+        - GIA
+        - ISA
+        - FIXED_DEPOSIT
+        - OVERNIGHT_MONEY
+        - BROKER
+        - ESG
+        - ESG_GOLD
+      enabledFeatures:
+        - DERIVATIVES
+    - scalableBranch: AUSTRIA
+      regionCode: AT
+      state: LIVE
+      supportedLanguages:
+        - code: de
+          isPrimary: true
+        - code: en
+      supportedProductTypes:
+        - BROKER
+        - GIA
+        - ISA
+        - ESG
+        - ESG_GOLD
+      enabledFeatures:
+        - DERIVATIVES
+    - scalableBranch: ITALY
+      regionCode: IT
+      state: WAITING_LIST
+      supportedLanguages:
+        - code: it
+          isPrimary: true
+        - code: en
+      supportedProductTypes:
+        - BROKER
+    - scalableBranch: SPAIN
+      regionCode: ES
+      state: LIVE
+      supportedLanguages:
+        - code: es
+          isPrimary: true
+        - code: en
+      supportedProductTypes:
+        - BROKER
+    - scalableBranch: FRANCE
+      regionCode: FR
+      state: LIVE
+      supportedLanguages:
+        - code: fr
+          isPrimary: true
+        - code: en
+      supportedProductTypes:
+        - BROKER
