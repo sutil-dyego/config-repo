@@ -37,4 +37,6 @@ scacap:
         - BROKER
         - ESG
         - ESG_GOLD
+      enabledFeatures:
+        - DERIVATIVES
 
