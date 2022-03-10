@@ -20,3 +20,11 @@ server:
     guest:
       username: guest
       password: guestpass
+  i18nDetails:
+    - scalableBranch: GERMANY
+      regionCode: DE
+scacap:
+  i18nDetails:
+    - scalableBranch: GERMANY
+      regionCode: DE
+
