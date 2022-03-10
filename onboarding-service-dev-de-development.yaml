@@ -3,6 +3,7 @@ scacap:
   i18nDetails:
     - scalableBranch: GERMANY
       regionCode: DE
+      isActive: true
       state: LIVE
       supportedLanguages:
         - code: de
@@ -20,6 +21,7 @@ scacap:
         - DERIVATIVES
     - scalableBranch: AUSTRIA
       regionCode: AT
+      isActive: true
       state: LIVE
       supportedLanguages:
         - code: de
@@ -35,6 +37,7 @@ scacap:
         - DERIVATIVES
     - scalableBranch: ITALY
       regionCode: IT
+      isActive: true
       state: WAITING_LIST
       supportedLanguages:
         - code: it
@@ -44,6 +47,7 @@ scacap:
         - BROKER
     - scalableBranch: SPAIN
       regionCode: ES
+      isActive: true
       state: LIVE
       supportedLanguages:
         - code: es
@@ -54,6 +58,7 @@ scacap:
     - scalableBranch: FRANCE
       regionCode: FR
       state: LIVE
+      isActive: true
       supportedLanguages:
         - code: fr
           isPrimary: true
