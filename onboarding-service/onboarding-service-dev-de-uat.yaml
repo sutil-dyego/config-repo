@@ -1,0 +1,65 @@
+scacap:
+  i18nDetails:
+    GERMANY:
+      regionCode: DE
+      state: WAITING_LIST
+      supportedLanguages:
+        - code: de
+          isPrimary: true
+        - code: en
+        - code: pt
+      supportedProductTypes:
+        - GIA
+        - ISA
+        - FIXED_DEPOSIT
+        - OVERNIGHT_MONEY
+        - BROKER
+        - ESG
+        - ESG_GOLD
+      enabledFeatures:
+        - DERIVATIVES
+    AUSTRIA:
+      regionCode: AT
+      state: LIVE
+      supportedLanguages:
+        - code: de
+          isPrimary: true
+        - code: en
+      supportedProductTypes:
+        - BROKER
+        - GIA
+        - ISA
+        - ESG
+        - ESG_GOLD
+      enabledFeatures:
+        - DERIVATIVES
+    ITALY:
+      regionCode: IT
+      state: WAITING_LIST
+      supportedLanguages:
+        - code: it
+          isPrimary: true
+        - code: en
+      supportedProductTypes:
+        - BROKER
+    SPAIN:
+      regionCode: ES
+      state: LIVE
+      supportedLanguages:
+        - code: es
+          isPrimary: true
+        - code: en
+      supportedProductTypes:
+        - BROKER
+    FRANCE:
+      regionCode: FR
+      state: LIVE
+      supportedLanguages:
+        - code: fr
+          isPrimary: true
+        - code: en
+      supportedProductTypes:
+        - BROKER
+# prod dev loadtest
+# onboarding service, broker-service
+
