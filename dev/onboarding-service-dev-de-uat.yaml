@@ -1,7 +1,7 @@
 scacap:
   i18nDetails:
     GERMANY:
-      regionCode: DE
+#      regionCode: DE
       state: WAITING_LIST
       supportedLanguages:
         - code: de
