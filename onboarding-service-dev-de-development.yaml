@@ -23,6 +23,7 @@ server:
   i18nDetails:
     GERMANY:
       regionCode: DE
+      state: LIVE
 scacap:
   i18nDetails:
     GERMANY:
