@@ -24,6 +24,10 @@ server:
     GERMANY:
       regionCode: DE
       state: LIVE
+      supportedLanguages:
+        - code: de
+          isPrimary: true
+        - code: en
 scacap:
   i18nDetails:
     GERMANY:
