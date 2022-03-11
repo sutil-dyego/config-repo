@@ -2,5 +2,5 @@ scacap:
   i18nDetails:
     GERMANY:
       regionCode: AR
-#      supportedProductTypes:
-#        - BROKER
+      supportedProductTypes:
+        - BROKER
