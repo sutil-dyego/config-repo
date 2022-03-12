@@ -2,7 +2,8 @@ scacap:
   i18nDetails:
     GERMANY:
       regionCode: DE
-      state: WAITING_LIST
+      state: LIVE
+#      state: WAITING_LIST
       supportedLanguages:
         - code: de
           isPrimary: true
