@@ -59,6 +59,4 @@ scacap:
         - code: en
       supportedProductTypes:
         - BROKER
-# prod dev loadtest
-# onboarding service, broker-service
 

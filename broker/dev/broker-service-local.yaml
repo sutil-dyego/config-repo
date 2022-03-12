@@ -1,13 +1,20 @@
 scacap:
   i18nDetails:
     GERMANY:
-#      regionCode: DE
+      regionCode: DE
       state: WAITING_LIST
       supportedLanguages:
         - code: de
           isPrimary: true
         - code: en
-        - code: pt
+      supportedProductTypes:
+        - GIA
+        - ISA
+        - FIXED_DEPOSIT
+        - OVERNIGHT_MONEY
+        - BROKER
+        - ESG
+        - ESG_GOLD
       enabledFeatures:
         - DERIVATIVES
     AUSTRIA:
