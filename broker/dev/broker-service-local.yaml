@@ -3,3 +3,6 @@ scacap:
     GERMANY:
       supportedProductTypes:
         - BROKER
+  financial-instrument-client:
+    search:
+      url: my-private-server.com
