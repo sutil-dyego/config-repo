@@ -1,8 +1,8 @@
-#scacap:
-#  i18nDetails:
-#    GERMANY:
-#      supportedProductTypes:
-#        - BROKER
+scacap:
+  i18nDetails:
+    GERMANY:
+      supportedProductTypes:
+        - BROKER
 #  financial-instrument-client:
 #    search:
 #      url: my-private-server.com
